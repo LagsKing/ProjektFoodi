@@ -24,6 +24,11 @@ namespace FoodieApp.Api.Data
                 new Category { Id = 4, Name = "Obiady" }
             );
 
+            // pre-seed user
+            modelBuilder.Entity<User>().HasData(
+                new User { Id = 1, UserName = "Admin", Email = "admin@foodie.local" }
+            );
+
             // decimal precision for price
             modelBuilder.Entity<Item>().Property(i => i.Price).HasColumnType("decimal(10,2)");
         }
