@@ -1,0 +1,8 @@
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.csproj.AssemblyReference.cache
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.AssemblyInfoInputs.cache
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.AssemblyInfo.cs
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.csproj.CoreCompileInputs.cache
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.sourcelink.json
