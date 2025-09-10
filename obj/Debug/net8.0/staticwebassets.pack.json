@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ProjektFoodi\\FoodieApp.Api\\wwwroot\\uploads\\b70d6b9e-662c-4f8b-8cc5-a569021d6b56.png",
+      "PackagePath": "staticwebassets\\uploads\\b70d6b9e-662c-4f8b-8cc5-a569021d6b56.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodieApp.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodieApp.Api.props",
+      "PackagePath": "build\\FoodieApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodieApp.Api.props",
+      "PackagePath": "buildMultiTargeting\\FoodieApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodieApp.Api.props",
+      "PackagePath": "buildTransitive\\FoodieApp.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

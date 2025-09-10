@@ -1,0 +1,14 @@
+<h2>Dodaj pozycję</h2>
+<form (ngSubmit)="addItem()">
+  <label>Nazwa: <input [(ngModel)]="newItem.name" name="name" required /></label><br />
+  <label>Kategoria:
+    <select [(ngModel)]="newItem.category" name="category">
+      <option *ngFor="let cat of categories">{{cat}}</option>
+    </select>
+  </label><br />
+  <label>Cena: <input type="number" [(ngModel)]="newItem.price" name="price" required /></label><br />
+  <label>Ocena: <input type="number" min="1" max="10" [(ngModel)]="newItem.rating" name="rating" required /></label><br />
+  <label>Lokalizacja: <input [(ngModel)]="newItem.location" name="location" /></label><br />
+
+  <button type="submit">Dodaj</button>
+</form>

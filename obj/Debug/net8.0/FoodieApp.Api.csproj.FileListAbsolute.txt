@@ -1,6 +1,16 @@
 D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\appsettings.Development.json
 D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\appsettings.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieAppFrontend\angular.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieAppFrontend\package-lock.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieAppFrontend\package.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieAppFrontend\tsconfig.app.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieAppFrontend\tsconfig.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieAppFrontend\tsconfig.spec.json
 D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.exe
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.deps.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.runtimeconfig.json
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.dll
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.pdb
 D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\Azure.Core.dll
 D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\Azure.Identity.dll
 D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\Humanizer.dll
@@ -162,9 +172,6 @@ D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieAp.B010EE78.Up2Date
 D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.dll
 D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\refint\FoodieApp.Api.dll
 D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.pdb
-D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.deps.json
-D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.runtimeconfig.json
-D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.dll
-D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.pdb
 D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\FoodieApp.Api.genruntimeconfig.cache
 D:\ProjektFoodi\FoodieApp.Api\obj\Debug\net8.0\ref\FoodieApp.Api.dll
+D:\ProjektFoodi\FoodieApp.Api\bin\Debug\net8.0\FoodieApp.Api.staticwebassets.runtime.json

@@ -1,0 +1,25 @@
+<div *ngIf="loading">Ładowanie...</div>
+
+<div *ngIf="!loading">
+  <h2>Lista pozycji</h2>
+  <table border="1" cellpadding="5">
+    <tr>
+      <th>Nazwa</th>
+      <th>Kategoria</th>
+      <th>Cena</th>
+      <th>Ocena</th>
+      <th>Lokalizacja</th>
+      <th>Akcje</th>
+    </tr>
+    <tr *ngFor="let item of items">
+      <td>{{ item.name }}</td>
+      <td>{{ item.category }}</td>
+      <td>{{ item.price }} zł</td>
+      <td>{{ item.rating }}/10</td>
+      <td>{{ item.location }}</td>
+      <td>
+        <button (click)="deleteItem(item.id!)">Usuń</button>
+      </td>
+    </tr>
+  </table>
+</div>

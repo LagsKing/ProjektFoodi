@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "oEXt5fvlHgwG9s9fv92GldFFtMwwr1xUVhzvt76hIMU=",
+  "Source": "FoodieApp.Api",
+  "BasePath": "_content/FoodieApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FoodieApp.Api\\wwwroot",
+      "Source": "FoodieApp.Api",
+      "ContentRoot": "D:\\ProjektFoodi\\FoodieApp.Api\\wwwroot\\",
+      "BasePath": "_content/FoodieApp.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ProjektFoodi\\FoodieApp.Api\\wwwroot\\uploads\\b70d6b9e-662c-4f8b-8cc5-a569021d6b56.png",
+      "SourceId": "FoodieApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjektFoodi\\FoodieApp.Api\\wwwroot\\",
+      "BasePath": "_content/FoodieApp.Api",
+      "RelativePath": "uploads/b70d6b9e-662c-4f8b-8cc5-a569021d6b56.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b70d6b9e-662c-4f8b-8cc5-a569021d6b56.png"
+    }
+  ]
+}
